@@ -1,4 +1,4 @@
-package org.okten;
+package Lesson1.demo.okten;
 
 import java.math.BigDecimal;
 import java.util.ArrayList;

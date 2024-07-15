@@ -1,4 +1,4 @@
-package org.okten;
+package Lesson1.demo.okten;
 
 public class Test {
     static void printHello(){

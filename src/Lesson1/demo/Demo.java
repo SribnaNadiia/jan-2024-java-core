@@ -1,4 +1,4 @@
-package demo;
+package Lesson1.demo;
 
 public class Demo {
      static void printHello(){

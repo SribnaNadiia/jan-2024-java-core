@@ -1,9 +1,7 @@
-package org.okten;
+package Lesson1.demo.okten;
 
 import java.math.BigDecimal;
 import java.math.BigInteger;
-import java.util.Arrays;
-import java.util.SplittableRandom;
 
 public class Main {
     /*public static void main(String[] args) {
